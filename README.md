@@ -88,3 +88,11 @@ avec un maximum de 30 sauts :
 ### III. Le requin
 
 ![image wireshark](C:\Users\T\Downloads\arp.pcapng)
+
+## Capture DNS 
+
+[capture dns](C:\Users\T\Downloads\dns.pcapng)
+
+## capture tcp
+
+[capture dns](C:\Users\T\Downloads\Capture.pcapng)
