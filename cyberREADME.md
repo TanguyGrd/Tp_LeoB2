@@ -1,10 +1,9 @@
 ## Clients du réseau
-Adresse IP	Nom d'hôte	Adresse MAC	Fabricant
-192.168.1.56	DESKTOP-IUKA3LU.lan	04:D4:C4:D3:4D
-	ASUSTek Computer
-192.168.1.135	Bouygtel4K-272011121428054.lan	EC:6C:9A:DD:F9:9E	Arcadyan
-192.168.1.254	bbox.lan	30:93:BC:88:4B:6C	Sagemcom Broadband SAS
-192.168.1.9	host.docker.internal	N/A	N/A
+	Adresse IP	Nom d'hôte	Adresse MAC	Fabricant
+	192.168.1.56	DESKTOP-IUKA3LU.lan	04:D4:C4:D3:4D ASUSTek Computer
+	192.168.1.135	Bouygtel4K-272011121428054.lan	EC:6C:9A:DD:F9:9E	Arcadyan
+	192.168.1.254	bbox.lan	30:93:BC:88:4B:6C	Sagemcom Broadband SAS
+	192.168.1.9	host.docker.internal	N/A	N/A
  ## Équipements fixes
 
     Routeur : bbox.lan (192.168.1.254)
